@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "InterpolatingMemory", "InterpolatingMemory.icproj", "{94885EF0-5E6A-42EA-ABBC-3108FC723D3C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "trig", "trig\trig.icproj", "{579E0D88-DD59-4C98-8770-C9935B4DCF67}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{94885EF0-5E6A-42EA-ABBC-3108FC723D3C}.Debug.ActiveCfg = Debug|Win32
+		{94885EF0-5E6A-42EA-ABBC-3108FC723D3C}.Debug.Build.0 = Debug|Win32
+		{94885EF0-5E6A-42EA-ABBC-3108FC723D3C}.Release.ActiveCfg = Release|Win32
+		{94885EF0-5E6A-42EA-ABBC-3108FC723D3C}.Release.Build.0 = Release|Win32
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Debug.ActiveCfg = Debug|Win32
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Debug.Build.0 = Debug|Win32
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Release.ActiveCfg = Release|Win32
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Release.Build.0 = Release|Win32
+		{579E0D88-DD59-4C98-8770-C9935B4DCF67}.Debug.ActiveCfg = Debug|Win32
+		{579E0D88-DD59-4C98-8770-C9935B4DCF67}.Debug.Build.0 = Debug|Win32
+		{579E0D88-DD59-4C98-8770-C9935B4DCF67}.Release.ActiveCfg = Release|Win32
+		{579E0D88-DD59-4C98-8770-C9935B4DCF67}.Release.Build.0 = Release|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Release.Build.0 = Release|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Release.ActiveCfg = Release|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Debug.Build.0 = Debug|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Debug.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

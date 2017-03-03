@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="InterpolatingMemory"
+	ProjectGUID="{94885EF0-5E6A-42EA-ABBC-3108FC723D3C}"
+	VCNestedProjectGUID="{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}"
+	VCNestedProjectFileName="InterpolatingMemory.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InterpolatingMemory", "InterpolatingMemory.vcxproj", "{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trig", "trig\trig.vcxproj", "{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Debug|Win32.Build.0 = Debug|Win32
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Release|Win32.ActiveCfg = Release|Win32
+		{4E7788B5-CDA2-41F6-99D3-CBC614A70F25}.Release|Win32.Build.0 = Release|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Debug|Win32.Build.0 = Debug|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Release|Win32.ActiveCfg = Release|Win32
+		{46EC4707-66AE-4424-B6AC-E9E9FBDEEF8E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

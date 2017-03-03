@@ -1,0 +1,40 @@
+dram[0] = 41
+dram[1] = 35
+dram[2] = 190
+dram[3] = 132
+dram[4] = 225
+dram[5] = 108
+dram[6] = 214
+dram[7] = 174
+imem[0] = 41, delta = 2
+imem[1] = 39, delta = 1
+imem[2] = 38, delta = 2
+imem[3] = 36, delta = 1
+imem[4] = 35, delta = -38
+imem[5] = 73, delta = -39
+imem[6] = 112, delta = -39
+imem[7] = 151, delta = -39
+imem[8] = 190, delta = 15
+imem[9] = 175, delta = 14
+imem[10] = 161, delta = 15
+imem[11] = 146, delta = 14
+imem[12] = 132, delta = -23
+imem[13] = 155, delta = -23
+imem[14] = 178, delta = -23
+imem[15] = 201, delta = -24
+imem[16] = 225, delta = 30
+imem[17] = 195, delta = 29
+imem[18] = 166, delta = 29
+imem[19] = 137, delta = 29
+imem[20] = 108, delta = -26
+imem[21] = 134, delta = -27
+imem[22] = 161, delta = -26
+imem[23] = 187, delta = -27
+imem[24] = 214, delta = 10
+imem[25] = 204, delta = 10
+imem[26] = 194, delta = 10
+imem[27] = 184, delta = 10
+imem[28] = 174, delta = 34
+imem[29] = 140, delta = 33
+imem[30] = 107, delta = 33
+imem[31] = 74, delta = 33
